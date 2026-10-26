@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🎮 ADHD Play Therapy Project
+# ADHD 청소년 디지털 놀이치료 추천
+
+**ADHD-Play-Therapy-Project**
+
+**기술 분류:** 추천 시스템 › 사례 기반 추론 › 유사 사례의 게임 추천
 
 ### ADHD 청소년을 위한 디지털 놀이치료 추천
 ### Digital Play Therapy Algorithm for ADHD Adolescent Patients
@@ -13,7 +17,33 @@
 
 [원고 읽기](#quick-start) · [저장소 구성](#structure) · [자료·설정](#data)
 
+[예시 이미지](#preview)
+
 </div>
+
+<a name="preview"></a>
+
+## 🖼️ 예시로 보기
+
+<p align="center"><img src="assets/previews/paper-architecture.png" width="890" alt="논문 그림 · ADHD-Play-Therapy-Project" /></p>
+
+**논문 그림** — 공개 원고 2쪽 그림 1: CBR 기반 디지털 놀이치료 추천 시스템 구조입니다.
+
+[근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
+
+
+
+<a name="input-processing-output"></a>
+
+## 🔄 입력·처리·출력
+
+| 단계 | 이 프로젝트에서 다루는 내용 |
+| :--- | :--- |
+| 입력 | 나이·성별·게임·성과 등 사례 정보 |
+| 처리 | 유사 사례 검색과 CBR 추천 알고리즘 설계 |
+| 출력 | 디지털 놀이치료 콘텐츠 추천 절차 |
+
+
 
 ---
 
