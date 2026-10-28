@@ -10,11 +10,11 @@
 
 **기술 분류:** 추천 시스템 › 사례 기반 추론 › 유사 사례의 게임 추천
 
-![Paper](https://img.shields.io/badge/Research-Paper-2563EB?style=flat-square) ![Document](https://img.shields.io/badge/Document-PDF-475569?style=flat-square)
+`논문·연구 자료` `Document`
 
 [원고 읽기](#quick-start) · [저장소 구성](#structure) · [자료·설정](#data)
 
-[예시 이미지](#preview)
+[핵심 구성](#input-processing-output)
 
 <details>
 <summary>📄 원고 제목</summary>
@@ -27,21 +27,11 @@ Digital Play Therapy Algorithm for ADHD Adolescent Patients
 
 <a name="overview"></a>
 
-## 🗺️ 한눈에 보는 구성
-
-<p align="center"><img src="assets/overview.png" width="960" alt="프로젝트의 입력·처리·출력을 정리한 설명도" /></p>
-보관한 프로젝트 자료의 흐름을 정리한 설명도입니다.
-
 ## ✨ 최종 원고에서 살펴볼 점
 
 CBR 기반 디지털 놀이치료 추천의 설계 원고입니다.
 
 원고에는 정량 결과표와 임상 효과를 입증할 수 있는 참여자·통계 검정 결과가 제시되지 않습니다.
-
-
-
-
-
 
 - 청소년 특성·게임 반응 사례를 검색·재사용하는 CBR 구성을 설명합니다.
 - 결론의 기대 효과와 임상 효과 입증을 구분합니다. 참여자·대조군·정량 검정 결과가 제공되지 않아 효과를 재현할 수 없습니다.
@@ -50,14 +40,16 @@ CBR 기반 디지털 놀이치료 추천의 설계 원고입니다.
 
 <a name="preview"></a>
 
-## 🖼️ 예시로 보기
+<details>
+<summary>📎 논문 도표와 출처</summary>
 
-<p align="center"><img src="assets/previews/paper-architecture.png" width="890" alt="논문 그림 · ADHD-Play-Therapy-Project" /></p>
+[📊 원고 도표 보기](assets/previews/paper-architecture.png)
 
 **논문 그림** — 공개 원고 2쪽 그림 1: CBR 기반 디지털 놀이치료 추천 시스템 구조입니다.
 
 [근거 파일 보기](%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
 
+</details>
 
 <a name="input-processing-output"></a>
 
@@ -65,9 +57,9 @@ CBR 기반 디지털 놀이치료 추천의 설계 원고입니다.
 
 | 단계 | 이 프로젝트에서 다루는 내용 |
 | :--- | :--- |
-| 입력 | 나이·성별·게임·성과 등 사례 정보 |
-| 처리 | 유사 사례 검색과 CBR 추천 알고리즘 설계 |
-| 출력 | 디지털 놀이치료 콘텐츠 추천 절차 |
+| 📥 입력 | 나이·성별·게임·성과 등 사례 정보 |
+| ⚙️ 처리 | 유사 사례 검색과 CBR 추천 알고리즘 설계 |
+| 📤 출력 | 디지털 놀이치료 콘텐츠 추천 절차 |
 
 
 ---
