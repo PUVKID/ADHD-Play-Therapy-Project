@@ -2,13 +2,38 @@
 
 # 전체 차수
 
-연구 원고·실험 코드·발표 자료의 목적과 사용 순서를 단계별로 살펴봅니다.
+<!-- reading-levels17:start -->
+**읽기 수준 선택** · [LEVEL 1 - Beginner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
+<!-- reading-levels17:end -->
+
+**연구 원고·실험 코드·발표 자료의 목적과 사용 순서를 단계별로 살펴봅니다.**
 
 [프로젝트 전체 소개](../README.md)
 
-| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
+| 차수 | 자료 폴더 | 상세 설명 | 직전 비교 |
 | --- | --- | --- | --- |
-| [최종 원고](versions/final-paper.md) | 청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다. | [폴더](../%EB%85%BC%EB%AC%B8) | [전체 비교](VERSIONS.md) |
+| 최종 원고 | [폴더](../%EB%85%BC%EB%AC%B8) | [설명](versions/final-paper.md) | [전체 비교](VERSIONS.md) |
+
+<a id="layout18-table-1-row-1"></a>
+
+**[최종 원고](versions/final-paper.md)**
+
+**차수·단계**
+
+[최종 원고](versions/final-paper.md)
+
+**주요 내용**
+
+청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.
+
+**자료**
+
+[폴더](../%EB%85%BC%EB%AC%B8)
+
+**직전 비교**
+
+[전체 비교](VERSIONS.md)
+
 
 <a id="-자료-이용"></a>
 

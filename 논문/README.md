@@ -2,7 +2,11 @@
 
 # 논문
 
-청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.
+<!-- reading-levels17:start -->
+**읽기 수준 선택** · [LEVEL 1 - Beginner](../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) · [LEVEL 2 - Explorer](../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) · [LEVEL 3 - Practitioner](../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) · [LEVEL 4 - Advanced](../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) · [LEVEL 5 - Expert](../docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md)
+<!-- reading-levels17:end -->
+
+**청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.**
 
 | 주요 구성 | 내용 |
 | --- | --- |
@@ -20,8 +24,25 @@
 3. 시스템 구조 그림에서 사용자·게임 후보·사례 검색·평가의 관계를 확인합니다.
 4. 결론에서 제안한 추천 방식의 활용 방향과 실제 효과 평가가 필요한 부분을 구분합니다.
 
-| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
-| --- | --- | --- | --- |
-| [최종 원고](../docs/versions/final-paper.md) | 청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다. | [폴더](.) | [전체 비교](../docs/VERSIONS.md) |
+<a id="layout18-table-2-row-1"></a>
+
+**[최종 원고](../docs/versions/final-paper.md)**
+
+**차수·단계**
+
+[최종 원고](../docs/versions/final-paper.md)
+
+**주요 내용**
+
+청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.
+
+**자료**
+
+[폴더](.)
+
+**직전 비교**
+
+[전체 비교](../docs/VERSIONS.md)
+
 
 [프로젝트](../README.md) · [전체 차수](../docs/REVISION_INDEX.md)
