@@ -10,6 +10,6 @@
 
 | 자료 | 원문 파일 |
 | --- | --- |
-| 최종 논문 · ADHD 놀이치료 | [PDF 다운로드](../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf) |
+| 최종 논문 · ADHD 놀이치료 | [게재 논문 읽기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025366) |
 
 공식 논문 URL은 확인 후 이 안내와 첫 화면에 함께 연결합니다. [코드 차수와 이전 원고의 변경 설명](REVISION_INDEX.md)을 확인할 수 있습니다.

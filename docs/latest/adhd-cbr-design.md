@@ -39,21 +39,9 @@
 <details>
 <summary>파일·크기·SHA-256과 자료 연결</summary>
 
-<a id="layout18-table-2-row-1"></a>
-
-**[최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)**
-
-**원문 파일**
-
-[최종_논문.pdf](../../%EB%85%BC%EB%AC%B8/%EC%B5%9C%EC%A2%85_%EB%85%BC%EB%AC%B8.pdf)
-
-**바이트**
-
-719215
-
-**SHA-256**
-
-`5642ce41fdf8048a498f49374c2e694d7d473c76378bdc19ef5e39590dceb85c`
+| 원문 파일 | 바이트 | SHA-256 |
+| --- | --- | --- |
+| <a id="layout18-table-2-row-1"></a> [게재 논문 읽기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12025366) | 719215 | `5642ce41fdf8048a498f49374c2e694d7d473c76378bdc19ef5e39590dceb85c` |
 
 
 </details>
