@@ -5,11 +5,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 설명의 초점 |
 | --- | --- |
-| [LEVEL 1 · Beginner](#reading-level-1) | 목적과 동작부터 |
-| [LEVEL 2 · Explorer](#reading-level-2) | 구성과 연결 원리 |
-| [LEVEL 3 · Practitioner](#reading-level-3) | 준비·실행·결과 확인 |
-| [LEVEL 4 · Advanced](#reading-level-4) | 구현·설계·실패 처리 |
-| [LEVEL 5 · Expert](#reading-level-5) | 근거·프로토콜·한계 검토 |
+| [LEVEL 1 · Beginner](#user-content-reading-level-1) | 목적과 동작부터 |
+| [LEVEL 2 · Explorer](#user-content-reading-level-2) | 구성과 연결 원리 |
+| [LEVEL 3 · Practitioner](#user-content-reading-level-3) | 준비·실행·결과 확인 |
+| [LEVEL 4 · Advanced](#user-content-reading-level-4) | 구현·설계·실패 처리 |
+| [LEVEL 5 · Expert](#user-content-reading-level-5) | 근거·프로토콜·한계 검토 |
 
 <details open>
 <summary>LEVEL 1 · Beginner — 목적과 동작부터</summary>
@@ -115,7 +115,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 실제 환자 기록이나 게임 이용 로그는 공개 자료에 없습니다. 새 사람에게 추천을 해 보거나 치료 효과를 확인하려면 별도의 연구가 필요합니다. 이 저장소만으로 진단이나 치료 결정을 내릴 수는 없습니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -218,7 +218,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 게임 추천 구조를 이해할 수 있지만 추천에 쓰는 구체적인 유사도 수식과 실행 서비스는 없습니다. 개인정보 보호와 연구 절차를 갖춘 실증이 후속 과제입니다. 자료가 없는 부분을 좋은 결과가 나온 부분으로 해석하지 않습니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -321,7 +321,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 추가 실험을 계획하려면 실제 사용자의 반응을 어떤 절차로 수집하고 어떤 기준으로 평가할지 별도로 정해야 합니다. 현재 공개물은 원자료를 제공하지 않습니다. 프로그램이 없다는 점과 임상 평가가 없다는 점을 각각 기록합니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
@@ -424,7 +424,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 개인화 정책의 선택에는 사례 수집 비용과 개인정보 처리, 검색의 설명 가능성, 효과 평가 설계가 함께 걸립니다. 이 원고에서는 이를 구현·측정한 결과가 없으므로 특정 선택의 비용 대비 효과를 확정하지 않습니다.
 
-[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+[표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#user-content-reading-level-5)
 
 
 </details>
