@@ -11,11 +11,11 @@
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 <!-- reading-levels17:end -->
 
 분야: 추천 시스템 › 사례 기반 추론 › 유사사례의 게임 추천
@@ -80,9 +80,9 @@ CBR 기반 디지털 놀이치료 추천의 설계 원고입니다.
 
 ## 전체 차수
 
-| 차수·단계 | 주요 내용 | 자료 | 직전 비교 |
-| --- | --- | --- | --- |
-| <a id="layout18-table-4-row-1"></a> [최종 원고](docs/versions/final-paper.md) | 청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다. | [폴더](%EB%85%BC%EB%AC%B8) | [전체 비교](docs/VERSIONS.md) |
+| 차수·단계 | 주요 내용 | 자료 · 직전 비교 |
+| --- | --- | --- |
+| <a id="layout18-table-4-row-1"></a> [최종 원고](docs/versions/final-paper.md) | 청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다. | [폴더](%EB%85%BC%EB%AC%B8)<br>[전체 비교](docs/VERSIONS.md) |
 
 
 <a id="-프로젝트-소개"></a>
@@ -174,9 +174,9 @@ CBR 기반 개인화를 통해 인지 능력 향상을 돕는 것을 목표로 �
 
 ## 자료 폴더와 차수별 변화
 
-| 자료 | 자료 폴더 | 설명 | 비교·구성 |
-| --- | --- | --- | --- |
-| 최종 원고 | [자료 폴더](%EB%85%BC%EB%AC%B8) | [내용](docs/versions/final-paper.md) | [비교·구성](docs/VERSIONS.md) |
+| 자료 | 자료 폴더 | 설명 · 비교·구성 |
+| --- | --- | --- |
+| 최종 원고 | [자료 폴더](%EB%85%BC%EB%AC%B8) | [내용](docs/versions/final-paper.md)<br>[비교·구성](docs/VERSIONS.md) |
 
 <a id="-현재-첨부-문서"></a>
 
@@ -184,9 +184,9 @@ CBR 기반 개인화를 통해 인지 능력 향상을 돕는 것을 목표로 �
 
 현재 제공하는 원문과 직전 공개본의 비교입니다. 이전 원고·발표와 코드는 전체 차수 표에서 확인할 수 있습니다.
 
-| 문서 | 자료 폴더 | 상세 | 직전 공개본 전체 비교 |
-| --- | --- | --- | --- |
-| 최종 논문 · ADHD 놀이치료 | [폴더](%EB%85%BC%EB%AC%B8) | [설명](docs/latest/adhd-cbr-design.md) | [전체 비교](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C-%EC%A0%84%EC%B2%B4%EB%B9%84%EA%B5%90.md) |
+| 문서 | 자료 폴더 | 상세 · 직전 공개본 전체 비교 |
+| --- | --- | --- |
+| 최종 논문 · ADHD 놀이치료 | [폴더](%EB%85%BC%EB%AC%B8) | [설명](docs/latest/adhd-cbr-design.md)<br>[전체 비교](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C-%EC%A0%84%EC%B2%B4%EB%B9%84%EA%B5%90.md) |
 
 [최신 문서 구성 변경](docs/changes/2026-11-02-%EC%B5%9C%EC%8B%A0%EB%AC%B8%EC%84%9C.md)
 
@@ -201,9 +201,9 @@ CBR 기반 개인화를 통해 인지 능력 향상을 돕는 것을 목표로 �
 <a id="️-최종-원고--사례로-찾는-디지털-놀이치료"></a>
 
 <details>
-<summary>최종 원고 · 사례로 찾는 디지털 놀이치료</summary>
+<summary><strong>최종 원고 · 사례로 찾는 디지털 놀이치료</strong></summary>
 
-### 최종 원고 · 사례로 찾는 디지털 놀이치료
+<a id="최종-원고--사례로-찾는-디지털-놀이치료"></a>
 
 청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.
 

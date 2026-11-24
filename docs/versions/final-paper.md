@@ -3,7 +3,16 @@
 # 최종 원고 · 사례로 찾는 디지털 놀이치료
 
 <!-- reading-levels17:start -->
-**읽기 수준 선택** · [LEVEL 1 - Beginner](#reading-level-1) · [LEVEL 2 - Explorer](#reading-level-2) · [LEVEL 3 - Practitioner](#reading-level-3) · [LEVEL 4 - Advanced](#reading-level-4) · [LEVEL 5 - Expert](#reading-level-5)
+| 읽기 수준 | 설명의 초점 |
+| --- | --- |
+| [LEVEL 1 · Beginner](#reading-level-1) | 목적과 동작부터 |
+| [LEVEL 2 · Explorer](#reading-level-2) | 구성과 연결 원리 |
+| [LEVEL 3 · Practitioner](#reading-level-3) | 준비·실행·결과 확인 |
+| [LEVEL 4 · Advanced](#reading-level-4) | 구현·설계·실패 처리 |
+| [LEVEL 5 · Expert](#reading-level-5) | 근거·프로토콜·한계 검토 |
+
+<details open>
+<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -108,6 +117,12 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+
 <a id="reading-level-2"></a>
 
 ## LEVEL 2 - Explorer
@@ -204,6 +219,12 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 게임 추천 구조를 이해할 수 있지만 추천에 쓰는 구체적인 유사도 수식과 실행 서비스는 없습니다. 개인정보 보호와 연구 절차를 갖춘 실증이 후속 과제입니다. 자료가 없는 부분을 좋은 결과가 나온 부분으로 해석하지 않습니다.
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -302,6 +323,12 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
 
+
+</details>
+
+<details>
+<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+
 <a id="reading-level-4"></a>
 
 ## LEVEL 4 - Advanced
@@ -398,6 +425,12 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 개인화 정책의 선택에는 사례 수집 비용과 개인정보 처리, 검색의 설명 가능성, 효과 평가 설계가 함께 걸립니다. 이 원고에서는 이를 구현·측정한 결과가 없으므로 특정 선택의 비용 대비 효과를 확정하지 않습니다.
 
 [표·코드·실행 설정·파일 전체 비교를 포함한 공통 상세](#reading-level-5)
+
+
+</details>
+
+<details>
+<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -565,3 +598,6 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 ---
 
 [프로젝트](../../README.md) · [전체 차수](../REVISION_INDEX.md) · [자료 폴더](../../%EB%85%BC%EB%AC%B8)
+
+</details>
+
