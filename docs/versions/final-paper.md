@@ -12,7 +12,7 @@
 | [LEVEL 5 · Expert](#reading-level-5) | 근거·프로토콜·한계 검토 |
 
 <details open>
-<summary><strong>LEVEL 1 · Beginner</strong> — 목적과 동작부터</summary>
+<summary>LEVEL 1 · Beginner — 목적과 동작부터</summary>
 
 <a id="reading-level-1"></a>
 
@@ -32,7 +32,7 @@
 
 ### LEVEL 1 · MMSE·개인 특성·게임 정보가 연결되는 방식
 
-**사람을 설명하는 정보와 게임을 설명하는 정보를 함께 보자**는 설계입니다. 먼저 원고 2쪽 그림에서 MMSE 검사 정보, 게임 후보, 게임 메타데이터를 각각 찾고 추천 모델로 향하는 연결을 따라가 보세요. 그림은 실제 서비스 화면이나 환자 실험 결과가 아닙니다.
+사람을 설명하는 정보와 게임을 설명하는 정보를 함께 보자는 설계입니다. 먼저 원고 2쪽 그림에서 MMSE 검사 정보, 게임 후보, 게임 메타데이터를 각각 찾고 추천 모델로 향하는 연결을 따라가 보세요. 그림은 실제 서비스 화면이나 환자 실험 결과가 아닙니다.
 
 | 조건·자료 | 의미와 확인 방법 |
 | --- | --- |
@@ -107,7 +107,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 
 공개 산출물은 시스템 구성과 처리 절차입니다. 정량 성능표나 치료 전후의 효과 수치는 없습니다.
 
-이 자료에서 확인할 결과는 추천의 구성과 순서입니다. “기억력·집중력 향상을 돕는다”는 목표가 있다고 해서 좋아진 사람 수나 치료 효과가 측정됐다는 뜻은 아닙니다. **정량 결과표와 임상 효과 검증은 제시되지 않습니다.**
+이 자료에서 확인할 결과는 추천의 구성과 순서입니다. “기억력·집중력 향상을 돕는다”는 목표가 있다고 해서 좋아진 사람 수나 치료 효과가 측정됐다는 뜻은 아닙니다. 정량 결과표와 임상 효과 검증은 제시되지 않습니다.
 
 ### LEVEL 1 · 주의할 범위
 
@@ -121,7 +121,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 </details>
 
 <details>
-<summary><strong>LEVEL 2 · Explorer</strong> — 구성과 연결 원리</summary>
+<summary>LEVEL 2 · Explorer — 구성과 연결 원리</summary>
 
 <a id="reading-level-2"></a>
 
@@ -224,7 +224,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 </details>
 
 <details>
-<summary><strong>LEVEL 3 · Practitioner</strong> — 준비·실행·결과 확인</summary>
+<summary>LEVEL 3 · Practitioner — 준비·실행·결과 확인</summary>
 
 <a id="reading-level-3"></a>
 
@@ -327,7 +327,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 </details>
 
 <details>
-<summary><strong>LEVEL 4 · Advanced</strong> — 구현·설계·실패 처리</summary>
+<summary>LEVEL 4 · Advanced — 구현·설계·실패 처리</summary>
 
 <a id="reading-level-4"></a>
 
@@ -430,7 +430,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 </details>
 
 <details>
-<summary><strong>LEVEL 5 · Expert</strong> — 근거·프로토콜·한계 검토</summary>
+<summary>LEVEL 5 · Expert — 근거·프로토콜·한계 검토</summary>
 
 <a id="reading-level-5"></a>
 
@@ -486,7 +486,7 @@ PDF 뷰어로 전체 원고를 열고 서론, 시스템 그림, 결론 순으로
 **기존 전체 상세** — 다음 본문은 이 차수의 원래 방법·조건·결과·실패·한계와 전체 비교입니다. 위 수준의 설명에 필요한 공통 근거도 모두 여기서 확인할 수 있습니다.
 <!-- reading-levels17:end -->
 
-**청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.**
+청소년의 특성과 게임 반응을 사례로 보관하고, 비슷한 사례를 이용해 디지털 놀이치료 게임을 추천하는 설계 연구입니다.
 
 분야: 추천 시스템 › 사례 기반 추론(CBR) › 청소년 디지털 놀이치료 설계
 

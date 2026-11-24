@@ -6,16 +6,16 @@
 
 # ADHD Play Therapy Project
 
-**유사사례를 바탕으로 디지털 놀이치료 콘텐츠를 추천하는 방법을 제안한 연구입니다.**
+유사사례를 바탕으로 디지털 놀이치료 콘텐츠를 추천하는 방법을 제안한 연구입니다.
 
 <!-- reading-levels17:start -->
 | 읽기 수준 | 안내 내용 |
 | --- | --- |
-| [**LEVEL 1 - Beginner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
-| [**LEVEL 2 - Explorer**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
-| [**LEVEL 3 - Practitioner**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
-| [**LEVEL 4 - Advanced**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
-| [**LEVEL 5 - Expert**](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
+| [LEVEL 1 - Beginner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A81.md) | 낯선 용어를 풀고 입력부터 결과까지 구체적인 예로 읽기 |
+| [LEVEL 2 - Explorer](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A82.md) | 핵심 개념과 처리 흐름의 관계 이해 |
+| [LEVEL 3 - Practitioner](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A83.md) | 실험·사용 절차와 결과 해석 따라가기 |
+| [LEVEL 4 - Advanced](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A84.md) | 코드 구조·설정·설계 선택과 제약 검토 |
+| [LEVEL 5 - Expert](docs/%EC%9D%BD%EA%B8%B0%EC%95%88%EB%82%B4/%EB%A0%88%EB%B2%A85.md) | 논문·프로토콜·분모·누수·미검증 범위 대조 |
 <!-- reading-levels17:end -->
 
 분야: 추천 시스템 › 사례 기반 추론 › 유사사례의 게임 추천
@@ -91,7 +91,7 @@ CBR 기반 디지털 놀이치료 추천의 설계 원고입니다.
 
 저자: **곽윤석 · 김도연 · 박정수 · 안진호**
 
-2024 한국정보기술학회 추계 종합학술대회 논문집, 인쇄쪽수 1727–1729. 학회 영문명은 **Korean Institute of Information Technology**입니다.
+2024 한국정보기술학회 추계 종합학술대회 논문집, 인쇄쪽수 1727–1729. 학회 영문명은 Korean Institute of Information Technology입니다.
 
 | 항목 | 원고에서 다루는 내용 |
 | --- | --- |
@@ -201,7 +201,7 @@ CBR 기반 개인화를 통해 인지 능력 향상을 돕는 것을 목표로 �
 <a id="️-최종-원고--사례로-찾는-디지털-놀이치료"></a>
 
 <details>
-<summary><strong>최종 원고 · 사례로 찾는 디지털 놀이치료</strong></summary>
+<summary>최종 원고 · 사례로 찾는 디지털 놀이치료</summary>
 
 <a id="최종-원고--사례로-찾는-디지털-놀이치료"></a>
 
