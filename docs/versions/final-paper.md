@@ -1,3 +1,7 @@
+<!-- language-choice:start -->
+🔵 **한국어** · [English overview](../../en/README.md)
+<!-- language-choice:end -->
+
 <a id="️-최종-원고--사례로-찾는-디지털-놀이치료"></a>
 
 # 최종 원고 · 사례로 찾는 디지털 놀이치료
