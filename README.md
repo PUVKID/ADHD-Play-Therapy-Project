@@ -25,7 +25,7 @@
   <source media="(max-width: 600px)" srcset="assets/readme/flow-ko-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/flow-ko-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/readme/flow-ko-light.svg" />
-  <img src="assets/readme/flow-ko-light.svg" alt="ADHD Play Therapy Project: 사례 정보 → CBR 유사사례 검색 → 콘텐츠 추천 설계" width="100%" />
+  <img src="assets/readme/flow-ko-light.svg" alt="사례 정보: 나이·게임·성과를 사례로 정리 → CBR 유사사례 검색: 유사사례를 찾는 추천 알고리즘 설계 → 콘텐츠 추천 설계: 개인별 놀이치료 추천 절차" width="100%" />
 </picture>
 <!-- readme-header32:end -->
 

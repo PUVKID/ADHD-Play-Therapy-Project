@@ -26,7 +26,7 @@
   <source media="(max-width: 600px)" srcset="../assets/readme/flow-en-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="../assets/readme/flow-en-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/readme/flow-en-light.svg" />
-  <img src="../assets/readme/flow-en-light.svg" alt="ADHD Play Therapy Project: Case records → CBR retrieval → Recommendation design" width="100%" />
+  <img src="../assets/readme/flow-en-light.svg" alt="Case records: Age, games and outcomes as case records → CBR retrieval: Design a similar-case recommender → Recommendation design: Personalized play-therapy procedure" width="100%" />
 </picture>
 <!-- readme-header32:end -->
 
